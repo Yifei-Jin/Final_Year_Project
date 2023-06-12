@@ -8,8 +8,8 @@ Code/N_Periodic_kaSPGR/N_periodic_ka_SPGR_MonteCarloSimulation
     - A step-py-step illustration of the simulation is also provided as "N_periodic_kaSPGR_ModelStepByStepIllustration.ipynb".
     - Monte Carlo Simulation result (mean, percentage bias, standard deviation) and Maps are stored as 2D array in SimulationResult.
 2. Optimised scan parameters are suggested by the simulation result, for TR > 6ms (scanner limit):
-    7-periodic ka-SPGR with TR = 6ms
-    12-periodic ka-SPGR with TR = 6ms
+    - 7-periodic ka-SPGR with TR = 6ms
+    - 12-periodic ka-SPGR with TR = 6ms
 
 Code/N_Periodic_kaSPGR/PhantomExperiment
 1. Phantom experiment is performed on a  NIST/ISMRM Premium System Phantom Model (SN:130-102) using the optimised ka-SPGR sequence and compare with GOLD-standard Multi-echo GRE. 
